@@ -1,5 +1,7 @@
 # Advanced Detection System 🎯
 
+https://youtu.be/1oXsB2620So
+
 A modern desktop application that combines real-time face detection and object detection using OpenCV and YOLOv8. Built with CustomTkinter for a sleek, dark-themed UI, this application offers both camera-based and image-based detection capabilities.
 
 ![Preview Image](/screenshots/p.png)
